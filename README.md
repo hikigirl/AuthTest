@@ -21,7 +21,6 @@
 - com.test.java.model
   - AuthDAO.java
   - UserDTO.java
-  
 - webapp/WEB-INF/views
   - index.jsp
   - auth/login.jsp
