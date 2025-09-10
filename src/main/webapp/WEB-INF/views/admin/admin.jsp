@@ -11,7 +11,9 @@
 	</style>
 </head>
 <body>
-	
+	<h1>관리자 전용 페이지</h1>
+	<div>관리자 전용 페이지입니다.</div>
+	<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione earum suscipit nostrum aperiam quaerat velit unde doloribus consequatur maiores aliquam rerum vero voluptatem ad sit sed consequuntur sapiente sunt facere.</div>
 	
 	<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 	<script src="https://bit.ly/4cMuheh"></script>
